@@ -17,13 +17,13 @@
 //console.log(americaLatina);
 
 
-const nome = 'Suzana';
-let idade = '29';
-let altura = '1.55';
-let temFilho = 'Sim';
+//const nome = 'Suzana';
+//let idade = '29';
+//let altura = '1.55';
+//let temFilho = 'Sim';
 
 
-console.log('Meu nome é',nome);
-console.log('Tenho', idade, 'anos');
-console.log(altura, 'de altura');
-console.log('E se tenho filhos?', temFilho, ',tenho.');
+//console.log('Meu nome é',nome);
+//console.log('Tenho', idade, 'anos');
+//console.log(altura, 'de altura');
+//console.log('E se tenho filhos?', temFilho, ',tenho.');
