@@ -14,4 +14,3 @@ inicio
 Escreva ("Voce percorreu",distancia "Km, em ",VelocidadeMedia "tempo.")
 
 fimalgoritmo
-   
