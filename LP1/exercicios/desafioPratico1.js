@@ -1,20 +1,11 @@
-//Variáveis
-//String
+//Tipos de Variáveis
 
-let nome = "Suzana";
-
-//Inteiro
-let n = 1;
-
-// Double e float
-
-let pi = 3.14;
-let nf = 1.72;
-
-// Boolean 
-
-let verdade = true;
-let falso = false;
+let nome = "Suzana"; //string
+let n = 1; //Inteiro
+let pi = 3.14; // Double(15 casa decimal) e float (7 casa decimal)
+let nf = 1.72; // Double e float
+let verdade = true; // Boolean 
+let falso = false; // Boolean 
 
 console.log(nome);
 console.log(n);
