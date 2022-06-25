@@ -14,4 +14,4 @@ console.log(`O circulo tem raio ${raio} e seu comprimento é ${comprimento}`);
 
 const frase1 = "ola mundo";
 const frase2 = "hello word";
-console.log(frase1 === frase1);
+console.log(frase1 === frase2);
