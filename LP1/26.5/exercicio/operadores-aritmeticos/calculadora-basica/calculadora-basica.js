@@ -5,8 +5,9 @@
   resultados no console.
 */
 
-// O parseInt converte o valor numerico recebido no
-// formato de string em um dado do tipo Integer
+// O parse(analisar-párse)Int converte o valor numerico recebido no formato de string em um dado do tipo Integer
+//prompt abre uma caixinha no navegador para digitação
+
 const numero1 = parseInt(prompt("Digite o primeiro numero: "));
 const numero2 = parseInt(prompt("Digite o segundo numero: "));
 

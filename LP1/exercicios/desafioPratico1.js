@@ -19,5 +19,5 @@ const primeiroNome = "Suzana";
 const ultimoNome = "Araujo";
 const idade = 29;
 
-//console.log("meu nome é " + primeiroNome + " " + ultimoNome + " e tenho " + idade + " anos."); //concatenar
-console.log(`Meu nome é ${primeiroNome} ${ultimoNome} e tenho ${idade} anos`)     //interpolação
+console.log("Meu nome é " + primeiroNome + " " + ultimoNome + " e tenho " + idade + " anos."); //concatenar
+console.log(`Meu nome é ${primeiroNome} ${ultimoNome} e tenho ${idade} anos.`) //interpolação
