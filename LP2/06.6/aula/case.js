@@ -5,7 +5,7 @@ const idade = 6;
 switch(true){
     case (idade >= 5 && idade <= 7) :
         console.log("voce é infantil A")
-        break;
+        break; //case:caso . break:pare
     case 8:
         console.log("voce é infantil B")
         break;

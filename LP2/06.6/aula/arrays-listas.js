@@ -17,3 +17,6 @@ console.log (marcaCarro);
 /*remover elemento da arrays*/
 marcaCarro.pop ()
 console.log (marcaCarro);
+
+console.log(marcaCarro);
+console.log(marcaCarro.sort ());//organiza em ordem alfabetica os itens
